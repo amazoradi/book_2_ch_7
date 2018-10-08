@@ -1,0 +1,16 @@
+.pageHeader {
+  display: flex;
+  justify-content: center;
+}
+
+article.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+section.shop {
+    flex-basis: 33%;
+    padding: 1px;
+}
